@@ -1,0 +1,24 @@
+{{define "main"}}
+
+
+<div class="container col-6 border  card bg-transparent p-3 mt-3 ">
+    
+    <div class="col bg-dark rounded p-2">
+        <img src="/avatar.png" class="avatar">
+        <label class="mx-1 font-weight-bold text-light">
+            {{.Params.email}}
+        </label>
+
+    </div>
+    <hr>
+    <div class="col">
+    </div>
+    <div class="col">
+        <p>{{.Content}}</p>
+    </div>
+
+</div>
+
+
+
+{{end}}
