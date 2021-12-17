@@ -1,0 +1,47 @@
+{
+    "moi":{
+        "moi-1":{
+            "index":1,
+            "name1":"Hariharan",
+            "name2":"Jeni",
+            "village":"KCPURAM",
+            "amount":1400
+        } ,
+
+        "moi-2":{
+            "index":2,
+            "name1":"Ravi",
+            "name2":"Gopika",
+            "village":"Theni",
+            "amount":1500
+       
+        },
+        "moi-5":{
+            "index":3,
+            "name1":"Vadivel",
+            "name2":"Mariyappan",
+            "village":"Dindugal",
+            "amount":2000
+       
+        },
+        "moi-6":{
+            "index":4,
+            "name1":"Tamil",
+            "name2":"Madhi",
+            "village":"Vadipatti",
+            "amount":1700
+       
+        },
+        "moi-7":{
+            "index":5,
+            "name1":"Rajesh",
+            "name2":"Gowthan",
+            "village":"Chennai",
+            "amount":1200
+       
+        }
+
+
+        
+    }
+}

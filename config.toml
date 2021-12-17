@@ -1,0 +1,36 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+count = 0
+[params]
+  bg="https://c0.wallpaperflare.com/preview/751/2/550/chart-graph-business-finance.jpg"
+
+
+[taxonomies]
+  category = 'categories'
+  series = 'series'
+  tag = 'tags'
+
+[menu]
+[[menu.main]]
+  name = 'About'
+  url = '/about/'
+  weight = -110
+[[menu.main]]
+  name = 'Home'
+  url = '/home/'
+  weight = -100
+[[menu.main]]
+  name = 'blogs'
+  url = '/blog/'
+  weight = -100
+[[menu.main]]
+  name = 'contact'
+  url = '/contact/'
+  weight = -100
+
+[[menu.main]]
+  name = 'Products'
+  url = '/Product/'
+  weight = -100
+

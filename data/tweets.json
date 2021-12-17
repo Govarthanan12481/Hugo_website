@@ -1,0 +1,11 @@
+{
+    "tweet": [
+       {
+          "date": "2017-01-07T00:00:00Z",
+          "link": "https://twitter.com/spf13",
+          "name": "Steve Francia",
+          "quote": "I'm creator of Hugo. #metadocreference",
+          "twitter_handle": "@spf13"
+       }
+    ]
+ }
